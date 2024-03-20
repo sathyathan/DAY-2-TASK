@@ -1,0 +1,1 @@
+This is the day 2 task for zen class.I have done my task.I reasearched the difference between a window object and a document object and took brief notes on my task.I awaiting for your valuable feedback.once again thank you sir.
